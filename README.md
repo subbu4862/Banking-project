@@ -1,6 +1,6 @@
 # Banking-project
 it is myfuture-ready-talent internship project....
-![Banking-project - Microsoft Azure and 9 more pages - Personal - Microsoft​ Edge 5_27_2023 8_24_08 PM](https://github.com/subbu4862/Banking-project/assets/131730465/f02c8750-e4ff-4359-9b6d-cd7e1ff4f630)
+![Home - Microsoft Azure and 5 more pages - Personal - Microsoft​ Edge 5_31_2023 11_33_08 AM](https://github.com/subbu4862/banking-project/assets/131730465/86d3540e-c8e9-4411-a99a-c55112ef5721)
 creating static web app :
 azure static web app url is :https://proud-glacier-05c90f210.3.azurestaticapps.net/
 These is static web app url by uisng azure service.
