@@ -1,0 +1,11 @@
+CustomerID,CustomerName,LastName,DepositAmount,Crediting,OnlineTransaction,Transactionmessage
+1,Shubham,Thakur,10070,9080,gpay,successful
+2,"Aman ",Chopra,180,50,gpay,fail
+3,Naveen,Tulasi,7800,500,paytm,successful
+4,Aditya,Arpan,5900,4999,paytm,successful
+5,tamilselvm,raja,5089,3999,paytm,successful
+6,suresh,kumar,100,50,googlepay,fail
+7,sameer,shaik,6800,2999,gpay,successful
+8,balasubramanyam,sadda,7008,1999,paytm,successful
+9,irfan,shaik,1089,50,googlepay,successful
+10,Amaan,shaik,6080,379,paytm,successful
