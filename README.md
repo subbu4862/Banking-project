@@ -1,8 +1,8 @@
 # Banking-project
 it is myfuture-ready-talent internship project....
-![Home - Microsoft Azure and 5 more pages - Personal - Microsoft​ Edge 5_31_2023 11_33_08 AM](https://github.com/subbu4862/banking-project/assets/131730465/86d3540e-c8e9-4411-a99a-c55112ef5721)
+![Home - Microsoft Azure and 6 more pages - Personal - Microsoft​ Edge 5_31_2023 6_34_26 PM](https://github.com/subbu4862/banking-project/assets/131730465/8db2a749-e786-45ea-ba66-26bf5355af3e)
 creating static web app :
-azure static web app url is :https://proud-glacier-05c90f210.3.azurestaticapps.net/
+azure static web app url is :https://victorious-plant-0e78f5c10.3.azurestaticapps.net/(it is activate in 4hours due to using sandbox).
 These is static web app url by uisng azure service.
 These link is active only few hours due to using sandbox in azure portal .
 
